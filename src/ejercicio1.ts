@@ -1,0 +1,11 @@
+console.log("Tomar mate");
+console.log("Llenar una pava con agua suficiente");
+console.log("Calentar el agua de la pava");
+console.log("Agarrar yerba mate");
+console.log("Agarrar un mate y una bombilla");
+console.log("Llenar el mate con la yerba a gusto");
+console.log("Si se desea agregar azucar o edulcorante");
+console.log("Mojar la yerba con agua templada o fria");
+console.log("Agregar la bombilla dentro del mate");
+console.log("Cuando el agua esta a temperatura deseada llenar el mate");
+console.log("Ingerir la infusion");
